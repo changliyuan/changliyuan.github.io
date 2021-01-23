@@ -1,11 +1,10 @@
 ---
-title: "Introduction2"
+title: "Introduction"
 date: 2020-06-08T08:06:25+06:00
 description: Introduction to Sample Post
 menu:
   sidebar:
-    name: Introduction2
-    identifier: introduction
+    name: Introduction
     weight: 10
 ---
 
