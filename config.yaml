@@ -27,10 +27,10 @@ params:
 
   background: "images/L6666.png"
 
-  # logo:
-  #   main: images/777.jpg
-  #   inverted: images/777.jpg
-  #   favicon: images/777.jpg
+  logo:
+    main: images/777.jpg
+    inverted: images/777.jpg
+    favicon: images/777.jpg
   # GitHub repo URL of your site
   gitRepo: https://github.com/changliyuan/changliyuan.github.io
 
