@@ -37,4 +37,4 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: true
-  background: "images/L6666.jpg"
+  background: "images/L6666.png"
