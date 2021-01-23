@@ -24,6 +24,13 @@ enableEmoji: true
 
 # Site parameters
 params:
+
+  background: "images/L6666.png"
+
+  # logo:
+  #   main: images/777.jpg
+  #   inverted: images/777.jpg
+  #   favicon: images/777.jpg
   # GitHub repo URL of your site
   gitRepo: https://github.com/changliyuan/changliyuan.github.io
 
@@ -37,4 +44,3 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: true
-  # background: "images/L6666.png"
