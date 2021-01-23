@@ -36,3 +36,8 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: true
+  background: "images/6666.jpg"
+  logo:
+    main: images/777.jpg
+    inverted: images/777.jpg
+    favicon: images/777.jpg
