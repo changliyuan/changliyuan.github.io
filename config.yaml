@@ -1,7 +1,7 @@
 # baseURL: https://hugo-toha.github.io
 baseURL: https://changliyuan.github.io
 
-languageCode: en-us
+languageCode: zh-CN
 title: "Cly's Blog"
 theme: "toha"
 
@@ -10,6 +10,7 @@ theme: "toha"
 languages:
   en:
     languageName: English
+    # languageName: Chinese
     weight: 1
 
 # Control TOC depth

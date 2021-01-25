@@ -1,16 +1,33 @@
 ---
-title: "随便写点"
+title: "安利电影《无依之地》"
 date: 2020-06-08T08:06:25+06:00
-description: Introduction to Sample Post
+description: movie to Sample Post
 menu:
   sidebar:
-    name: Introduction
-    identifier: introduction
+    name: 电影介绍
+    identifier: 电影介绍
     weight: 10
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+  如果要问我2020年最推荐的一部电影是什么的话，那一定是导演赵婷的《无依之地》
+{{< figure src ="./img/1.jpg" width ="500" align ="center">}}
+  
+  其实一开始我还是冲着主演弗兰西斯·麦克多蒙德看的（就是三块广告牌的女主）然后了解这部电影的时候也了解到了导演赵婷。
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+  弗兰西斯·麦克多蒙德拿着《无依之地》的原著版权找到赵婷导。然后赵婷剪辑 导演 编剧全包给我们带来了这样一部电影。
+
+  《无依之地》是赵婷导演的第三部电影，但最为大家熟知的还是她即将导演的漫威电影《永恒族》
+
+  回看赵婷的前两部电影和今年的《无依之地》都有一个共同的主题就是“人与自然”
+{{< img src="./img/2.jpg" width="500" link="./1.jpg" align="center" >}}
+
+  赵婷曾说:我们都一头扎进了这个小微宇宙，几乎忘了还有外部世界。这句话也是给我感触很深
+
+
+  {{< img src="./img/3.jpg" width="500" link="./1.jpg" align="center" >}}
+
+  要说影评其实我也说不出来什么，只是感觉这部电影真的是一个非常好的电影。
+
+
+  写这篇帖子也就是想安利一下这部宝藏电影和这个宝藏导演。
+
