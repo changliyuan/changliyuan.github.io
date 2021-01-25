@@ -1,35 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Cly&#39;s Blog</title>
-    <link>https://changliyuan.github.io/posts/</link>
-    <description>Recent content in Posts on Cly&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
-    <lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://changliyuan.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introduction</title>
-      <link>https://changliyuan.github.io/posts/introduction/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>https://changliyuan.github.io/posts/introduction/</guid>
-      <description>Greeting! This is an introduction post. This post tests the followings:
- Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file.  </description>
-    </item>
-    
-    <item>
-      <title>安利电影《无依之地》</title>
-      <link>https://changliyuan.github.io/posts/2/</link>
-      <pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate>
-      
-      <guid>https://changliyuan.github.io/posts/2/</guid>
-      <description>如果要问我2020年最推荐的一部电影是什么的话，那一定是导演赵婷的《无依之地》   其实一开始我还是冲着主演弗兰西斯·麦克多蒙德看的（就是三块广告牌的女主）然后了解这部电影的时候也了解到了导演赵婷。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Cly's Blog</title><link>https://changliyuan.github.io/posts/</link><description>Recent content in Posts on Cly's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Mon, 08 Jun 2020 08:06:25 +0600</lastBuildDate><atom:link href="https://changliyuan.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>https://changliyuan.github.io/posts/introduction/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://changliyuan.github.io/posts/introduction/</guid><description>Greeting! This is an introduction post. This post tests the followings:
+Hero image is in the same directory as the post. This post should be at top of the sidebar. Post author should be the same as specified in author.yaml file.</description></item><item><title>安利电影《无依之地》</title><link>https://changliyuan.github.io/posts/2/</link><pubDate>Mon, 08 Jun 2020 08:06:25 +0600</pubDate><guid>https://changliyuan.github.io/posts/2/</guid><description>如果要问我2020年最推荐的一部电影是什么的话，那一定是导演赵婷的《无依之地》 其实一开始我还是冲着主演弗兰西斯·麦克多蒙德看的（就是三块广告牌的女主）然后了解这部电影的时候也了解到了导演赵婷。
 弗兰西斯·麦克多蒙德拿着《无依之地》的原著版权找到赵婷导。然后赵婷剪辑 导演 编剧全包给我们带来了这样一部电影。
 《无依之地》是赵婷导演的第三部电影，但最为大家熟知的还是她即将导演的漫威电影《永恒族》
 回看赵婷的前两部电影和今年的《无依之地》都有一个共同的主题就是“人与自然” 赵婷曾说:我们都一头扎进了这个小微宇宙，几乎忘了还有外部世界。这句话也是给我感触很深
 要说影评其实我也说不出来什么，只是感觉这部电影真的是一个非常好的电影。
-写这篇帖子也就是想安利一下这部宝藏电影和这个宝藏导演。</description>
-    </item>
-    
-  </channel>
-</rss>
+写这篇帖子也就是想安利一下这部宝藏电影和这个宝藏导演。</description></item></channel></rss>
