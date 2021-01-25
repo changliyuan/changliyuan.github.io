@@ -5,7 +5,7 @@ description: movie to Sample Post
 menu:
   sidebar:
     name: 电影介绍
-    identifier: 电影介绍
+    # identifier: Introduction
     weight: 10
 ---
 
